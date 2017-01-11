@@ -1,6 +1,0 @@
-$ git config --global user.name "XiaoTongCai"
-$ git config --global user.email "1242687626@qq.com"
-ssh-keygen -t rsa -C "1242687626@qq.com"
-
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9Y0OH4wavK0WsxAtthM4rK7WeUiWuFdBSV0GrjJvvUOfW67cwPUVi/0TY4ZvtEeaHviDIbakKnrH3IURH5CXQCjspRRQV0+C1cnLp1K1mRggAg81awcTUlpG8swO0EFNfj8sBALwpUEb8hSkOmyPvnnxkOKdevG7rwCafig1KW7EdSu/DPFABxfO8jn2ErZMoOhvX7EOrWW3YckEXKAJFX7rzIlcpMSXp6O72AmTCqZEQe1qOL0gRsQsOGYoww+XfIUS/EjUuUOMpDCzT9AV9l4QfRW7QiQqUd3CUqEV59D47JtX6TiZifYpxGuKj+BzMAeAj0mP3OOrYSilD1Y5P 1242687626@qq.com
